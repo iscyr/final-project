@@ -7,7 +7,6 @@
 import pandas as pd
 import csv
 bank = pd.read_csv('C:\\Users\\isabe\\Downloads\\bank\\bank.csv', sep = ';')
-#bank = pd.read_csv('https://github.com/iscyr/final-project/main/bank.csv', sep = ';')
 pd.set_option('display.precision', 2) #format for floating-point values
 
 #creating the graphs
